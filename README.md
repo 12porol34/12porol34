@@ -1,6 +1,8 @@
-## Hi, I program.
+## Hi, I program. 
+![Uploading lv_0_20250529194241_1 — копия (3).gif…]()
 
-<!--
+<!--![Uploading дядябогдан-gachi.gif…]()
+
 **12porol34/12porol34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
