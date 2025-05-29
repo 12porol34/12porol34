@@ -1,5 +1,6 @@
 ## Hi, I program. 
-![Uploading lv_0_20250529194241_1 — копия.gif…]()
+![Image alt](https://github.com/12porol34/12porol34/blob/main/lv_0_20250529194241_1.gif)
+
 
 
 <!--![Uploading дядябогдан-gachi.gif…]()
