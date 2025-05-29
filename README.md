@@ -1,4 +1,5 @@
 ## Hi, I program. 
+![Uploading lv_0_20250529194241_1 — копия.gif…]()
 
 
 <!--![Uploading дядябогдан-gachi.gif…]()
