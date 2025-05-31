@@ -8,7 +8,7 @@
 ![Image alt](https://github.com/12porol34/12porol34/blob/main/lv_0_20250529194241_1.gif)           
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Здесь мои [работы](https://github.com/12porol34?tab=repositories)                                                                                                    
+Здесь мои [работы](https://github.com/12porol34?tab=repositories).                                                                                                    
 Мои работы:                                                                                                                                                                                                                                 
 ![Image alt](https://github.com/12porol34/12porol34/blob/main/disintegrating-funny.gif)                                                                                                                                       
 <!--![Uploading дядябогдан-gachi.gif…]()
