@@ -7,8 +7,8 @@ ________________________________________________________________________________
 ![Image alt](https://camo.githubusercontent.com/972c64401862d6b00d73b76042d183ed069e6bd2ec21992ce07331ef67547c2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)
 ________________________________________________________________________________________________________________________________________________________
 Здесь мои [работы](https://github.com/12porol34?tab=repositories)
-Мои работы:
-![Image alt](https://github.com/12porol34/12porol34/blob/main/disintegrating-funny.gif)
+Мои работы:                                                                           
+![Image alt](https://github.com/12porol34/12porol34/blob/main/disintegrating-funny.gif)                                                                                                   
 <!--![Uploading дядябогдан-gachi.gif…]()
 
 **12porol34/12porol34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
